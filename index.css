@@ -1,4 +1,6 @@
 div{
+    margin-left: 10px;
+    padding-left: 10px;
     height: 100px;
     width: 100px;
     border:2px red solid ;
