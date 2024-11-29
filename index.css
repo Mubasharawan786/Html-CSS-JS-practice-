@@ -1,21 +1,7 @@
 div{
-    margin-left: 10px;
-    padding-left: 10px;
+
     height: 100px;
     width: 100px;
     border:2px red solid ;
     display:inline ;
 }
-#box1{
-    background-color: antiquewhite;
-}
-#box2{
-    background-color: aqua;
-}
-#box3{
-    background-color: aquamarine;
-}
-#box4{
-    background-color: blue;
-}
-
