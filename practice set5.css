@@ -1,5 +1,6 @@
 div{
-height: 100px;
-width: 100px;
-background-color: aqua;    
+    height:100px;
+    width:100px;
+    background-image:url(Man.jpg) ;
+    background-size:contain;
 }
