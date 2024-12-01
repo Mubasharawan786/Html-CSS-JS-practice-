@@ -1,6 +1,7 @@
 div{
     height:100px;
     width:100px;
+    font-weight: bolder;
     background-image:url(Man.jpg) ;
     background-size:contain;
 }
