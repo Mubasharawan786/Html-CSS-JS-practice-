@@ -6,7 +6,8 @@ body{
     width:800px;
     height:200px;
     display: inline-block;
-
+    display: flex;
+    flex-direction: row;
 }
 div{
     height: 100px;
