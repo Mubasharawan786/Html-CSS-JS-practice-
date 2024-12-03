@@ -4,10 +4,12 @@ body{
 
 #container{
     width:800px;
-    height:200px;
-    display: inline-block;
+    height: 300px;
     display: flex;
-    flex-direction: row;
+    flex-direction:column;
+    justify-content:center ;
+    
+    
 }
 div{
     height: 100px;
