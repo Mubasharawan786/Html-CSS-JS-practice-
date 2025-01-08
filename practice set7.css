@@ -1,11 +1,11 @@
-div{
-    height: 300px;
-    width: 100px;
-
-}
-#div1{
-    color: aqua;
-}
-#div{
+div1 {
+    background-color: red;
+  }
+  
+  div2{
+    background-color: green;
+  }
+  
+  div3 {
     background-color: blue;
-}
+  }
