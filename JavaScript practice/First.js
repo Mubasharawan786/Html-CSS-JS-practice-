@@ -1,1 +1,1 @@
-console.log("Welcome to Tech World  ");
+console.log("Welcome to Tech World");
