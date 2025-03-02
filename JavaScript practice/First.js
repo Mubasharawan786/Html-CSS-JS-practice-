@@ -1,5 +1,8 @@
-let str="bali";
-for(let val of str)
+let num=0;
+while(num<=100)
 {
-    console.log("i=",i);
+    if(num%2===0){
+        console.log(num);
+    }
+    num++;
 }
